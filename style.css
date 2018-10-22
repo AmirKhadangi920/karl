@@ -11,3 +11,26 @@
     /* -------------------------------------------------
     ============ PLACE YOUR CUSTOM CSS HERE ============
     ------------------------------------------------- */
+    body{
+        direction: rtl;
+    }
+    .owl-stage{
+        float: left;
+    }
+    .product-description{
+        text-align: right;
+    }
+    .welcome_slide_text{
+        float: right;
+    }
+    #div-text{
+        margin-left: 55%;
+        text-align: center;
+    }
+    .karl-level{
+        margin-left: 30%;
+
+    }
+    .catagory-content{
+        margin-right: 30%;
+    }
